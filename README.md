@@ -1,4 +1,4 @@
-# Braxan.Front
+# Braxan.Front (c)
 Frontend that can be used by Braxan customers
 - Logon
 - Registration
